@@ -1,0 +1,1286 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144462'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'ERR986083'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144385'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'ERR986093'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144423'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144461'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR5941978'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144405'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144470'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR1770381'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144446'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR1767795'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'ERR986104'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'ERR986100'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'ERR986113'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144398'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144441'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144475'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144429'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144382'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144469'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144410'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144394'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144473'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR1767791'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144442'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR1770370'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144412'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'ERR986101'...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144436'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2: 1) Downloading 'SRR2144449'...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:51 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:55:55 prefetch.2.8.2: 1) 'SRR2144382' was downloaded successfully
+2018-08-09T13:55:56 prefetch.2.8.2: 'SRR2144382' has 0 unresolved dependencies
+2018-08-09T13:56:00 prefetch.2.8.2: 1) 'SRR2144429' was downloaded successfully
+2018-08-09T13:56:00 prefetch.2.8.2: 'SRR2144429' has 0 unresolved dependencies
+2018-08-09T13:56:01 prefetch.2.8.2: 1) 'SRR2144462' was downloaded successfully
+2018-08-09T13:56:01 prefetch.2.8.2: 'SRR2144462' has 0 unresolved dependencies
+2018-08-09T13:56:01 prefetch.2.8.2: 1) 'SRR2144394' was downloaded successfully
+2018-08-09T13:56:01 prefetch.2.8.2: 'SRR2144394' has 0 unresolved dependencies
+2018-08-09T13:56:02 prefetch.2.8.2: 1) 'SRR2144449' was downloaded successfully
+2018-08-09T13:56:02 prefetch.2.8.2: 'SRR2144449' has 0 unresolved dependencies
+2018-08-09T13:56:02 prefetch.2.8.2: 1) 'SRR2144405' was downloaded successfully
+2018-08-09T13:56:02 prefetch.2.8.2: 'SRR2144405' has 0 unresolved dependencies
+2018-08-09T13:56:03 prefetch.2.8.2: 1) 'SRR2144469' was downloaded successfully
+2018-08-09T13:56:03 prefetch.2.8.2: 'SRR2144469' has 0 unresolved dependencies
+2018-08-09T13:56:03 prefetch.2.8.2: 1) 'SRR2144461' was downloaded successfully
+2018-08-09T13:56:03 prefetch.2.8.2: 'SRR2144461' has 0 unresolved dependencies
+2018-08-09T13:56:04 prefetch.2.8.2: 1) 'SRR2144473' was downloaded successfully
+2018-08-09T13:56:04 prefetch.2.8.2: 'SRR2144473' has 0 unresolved dependencies
+2018-08-09T13:56:04 prefetch.2.8.2: 1) 'SRR2144446' was downloaded successfully
+2018-08-09T13:56:04 prefetch.2.8.2: 'SRR2144446' has 0 unresolved dependencies
+2018-08-09T13:56:04 prefetch.2.8.2: 1) 'SRR2144436' was downloaded successfully
+2018-08-09T13:56:04 prefetch.2.8.2: 'SRR2144436' has 0 unresolved dependencies
+2018-08-09T13:56:05 prefetch.2.8.2: 1) 'SRR2144423' was downloaded successfully
+2018-08-09T13:56:05 prefetch.2.8.2: 'SRR2144423' has 0 unresolved dependencies
+2018-08-09T13:56:05 prefetch.2.8.2: 1) 'SRR2144470' was downloaded successfully
+2018-08-09T13:56:05 prefetch.2.8.2: 'SRR2144470' has 0 unresolved dependencies
+2018-08-09T13:56:05 prefetch.2.8.2: 1) 'SRR2144412' was downloaded successfully
+2018-08-09T13:56:05 prefetch.2.8.2: 'SRR2144412' has 0 unresolved dependencies
+2018-08-09T13:56:05 prefetch.2.8.2: 1) 'SRR2144410' was downloaded successfully
+2018-08-09T13:56:05 prefetch.2.8.2: 'SRR2144410' has 0 unresolved dependencies
+2018-08-09T13:56:06 prefetch.2.8.2: 1) 'SRR2144398' was downloaded successfully
+2018-08-09T13:56:06 prefetch.2.8.2: 'SRR2144398' has 0 unresolved dependencies
+2018-08-09T13:56:07 prefetch.2.8.2: 1) 'SRR2144441' was downloaded successfully
+2018-08-09T13:56:07 prefetch.2.8.2: 'SRR2144441' has 0 unresolved dependencies
+2018-08-09T13:56:08 prefetch.2.8.2: 1) 'SRR2144442' was downloaded successfully
+2018-08-09T13:56:08 prefetch.2.8.2: 'SRR2144442' has 0 unresolved dependencies
+2018-08-09T13:56:09 prefetch.2.8.2: 1) 'SRR2144475' was downloaded successfully
+2018-08-09T13:56:09 prefetch.2.8.2: 'SRR2144475' has 0 unresolved dependencies
+2018-08-09T13:56:11 prefetch.2.8.2: 1) 'SRR2144385' was downloaded successfully
+2018-08-09T13:56:11 prefetch.2.8.2: 'SRR2144385' has 0 unresolved dependencies
+2018-08-09T13:56:17 prefetch.2.8.2: 1) 'ERR986104' was downloaded successfully
+2018-08-09T13:56:24 prefetch.2.8.2: 1) 'ERR986093' was downloaded successfully
+2018-08-09T13:56:32 prefetch.2.8.2: 1) 'ERR986101' was downloaded successfully
+2018-08-09T13:56:35 prefetch.2.8.2: 1) 'ERR986113' was downloaded successfully
+2018-08-09T13:56:37 prefetch.2.8.2: 1) 'ERR986100' was downloaded successfully
+2018-08-09T13:56:43 prefetch.2.8.2: 1) 'ERR986083' was downloaded successfully
+Rejected 5117736 READS because READLEN < 1
+Read 5117736 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144382.sra
+Written 5117736 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144382.sra
+
+2018-08-09T13:57:12 prefetch.2.8.2: 1) Downloading 'SRR2144466'...
+2018-08-09T13:57:12 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:57:21 prefetch.2.8.2: 1) 'SRR1767795' was downloaded successfully
+2018-08-09T13:57:31 prefetch.2.8.2: 1) 'SRR5941978' was downloaded successfully
+2018-08-09T13:57:31 prefetch.2.8.2: 1) 'SRR2144466' was downloaded successfully
+2018-08-09T13:57:31 prefetch.2.8.2: 'SRR2144466' has 0 unresolved dependencies
+2018-08-09T13:57:41 prefetch.2.8.2: 1) 'SRR1770381' was downloaded successfully
+2018-08-09T13:57:53 prefetch.2.8.2: 1) 'SRR1767791' was downloaded successfully
+Rejected 9134889 READS because READLEN < 1
+Read 9134889 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144462.sra
+Written 9134889 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144462.sra
+
+2018-08-09T13:58:11 prefetch.2.8.2: 1) Downloading 'ERR986118'...
+2018-08-09T13:58:11 prefetch.2.8.2:  Downloading via https...
+Rejected 10643006 READS because READLEN < 1
+Read 10643006 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144429.sra
+Written 10643006 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144429.sra
+Rejected 10819401 READS because READLEN < 1
+Read 10819401 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144394.sra
+Written 10819401 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144394.sra
+
+
+2018-08-09T13:58:28 prefetch.2.8.2: 1) Downloading 'SRR1770369'...
+2018-08-09T13:58:28 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:58:28 prefetch.2.8.2: 1) Downloading 'SRR2144437'...
+2018-08-09T13:58:28 prefetch.2.8.2:  Downloading via https...
+Rejected 10190094 READS because READLEN < 1
+Read 10190094 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144449.sra
+Written 10190094 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144449.sra
+
+2018-08-09T13:58:29 prefetch.2.8.2: 1) Downloading 'ERR986114'...
+2018-08-09T13:58:29 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:58:30 prefetch.2.8.2: 1) 'SRR1770370' was downloaded successfully
+2018-08-09T13:58:37 prefetch.2.8.2: 1) 'SRR2144437' was downloaded successfully
+2018-08-09T13:58:37 prefetch.2.8.2: 'SRR2144437' has 0 unresolved dependencies
+Rejected 10730421 READS because READLEN < 1
+Read 10730421 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144469.sra
+Written 10730421 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144469.sra
+
+2018-08-09T13:58:38 prefetch.2.8.2: 1) Downloading 'SRR5488464'...
+2018-08-09T13:58:38 prefetch.2.8.2:  Downloading via https...
+Rejected 11309990 READS because READLEN < 1
+Read 11309990 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144461.sra
+Written 11309990 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144461.sra
+
+2018-08-09T13:58:42 prefetch.2.8.2: 1) Downloading 'SRR5488451'...
+2018-08-09T13:58:42 prefetch.2.8.2:  Downloading via https...
+Read 6417997 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986104.sra
+Written 6417997 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986104.sra
+Rejected 11728012 READS because READLEN < 1
+Read 11728012 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144473.sra
+Written 11728012 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144473.sra
+
+
+2018-08-09T13:58:50 prefetch.2.8.2: 1) Downloading 'ERR986087'...
+2018-08-09T13:58:50 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:58:50 prefetch.2.8.2: 1) Downloading 'SRR2144453'...
+2018-08-09T13:58:50 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:58:58 prefetch.2.8.2: 1) 'SRR2144453' was downloaded successfully
+2018-08-09T13:58:58 prefetch.2.8.2: 'SRR2144453' has 0 unresolved dependencies
+Rejected 12524740 READS because READLEN < 1
+Read 12524740 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144405.sra
+Written 12524740 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144405.sra
+
+2018-08-09T13:59:06 prefetch.2.8.2: 1) Downloading 'SRR5941977'...
+2018-08-09T13:59:06 prefetch.2.8.2:  Downloading via https...
+Rejected 12228578 READS because READLEN < 1
+Read 12228578 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144446.sra
+Written 12228578 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144446.sra
+
+2018-08-09T13:59:06 prefetch.2.8.2: 1) Downloading 'ERR986117'...
+2018-08-09T13:59:06 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:59:07 prefetch.2.8.2: 1) 'ERR986114' was downloaded successfully
+Rejected 13034440 READS because READLEN < 1
+Read 13034440 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144470.sra
+Written 13034440 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144470.sra
+
+2018-08-09T13:59:19 prefetch.2.8.2: 1) Downloading 'ERR986096'...
+2018-08-09T13:59:19 prefetch.2.8.2:  Downloading via https...
+2018-08-09T13:59:19 prefetch.2.8.2: 1) 'ERR986087' was downloaded successfully
+2018-08-09T13:59:47 prefetch.2.8.2: 1) 'ERR986118' was downloaded successfully
+2018-08-09T13:59:53 prefetch.2.8.2: 1) 'SRR1770369' was downloaded successfully
+2018-08-09T14:00:06 prefetch.2.8.2: 1) 'ERR986096' was downloaded successfully
+Read 9168113 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986093.sra
+Written 9168113 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986093.sra
+
+2018-08-09T14:00:22 prefetch.2.8.2: 1) Downloading 'SRR1770387'...
+2018-08-09T14:00:22 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:00:25 prefetch.2.8.2: 1) failed to download SRR5488464
+
+2018-08-09T14:00:26 prefetch.2.8.2: 1) Downloading 'SRR1770382'...
+2018-08-09T14:00:26 prefetch.2.8.2:  Downloading via https...
+Rejected 16166024 READS because READLEN < 1
+Read 16166024 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144436.sra
+Written 16166024 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144436.sra
+
+2018-08-09T14:00:33 prefetch.2.8.2: 1) 'SRR5941977' was downloaded successfully
+2018-08-09T14:00:34 prefetch.2.8.2: 1) Downloading 'SRR2144397'...
+2018-08-09T14:00:34 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:00:35 prefetch.2.8.2: 1) 'ERR986117' was downloaded successfully
+Rejected 16597039 READS because READLEN < 1
+Read 16597039 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144410.sra
+Written 16597039 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144410.sra
+
+2018-08-09T14:00:40 prefetch.2.8.2: 1) Downloading 'SRR2144459'...
+2018-08-09T14:00:40 prefetch.2.8.2:  Downloading via https...
+Rejected 16707966 READS because READLEN < 1
+Read 16707966 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144412.sra
+Written 16707966 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144412.sra
+
+2018-08-09T14:00:47 prefetch.2.8.2: 1) Downloading 'SRR1770384'...
+2018-08-09T14:00:47 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:00:47 prefetch.2.8.2: 1) 'SRR2144397' was downloaded successfully
+2018-08-09T14:00:47 prefetch.2.8.2: 'SRR2144397' has 0 unresolved dependencies
+2018-08-09T14:00:47 prefetch.2.8.2: 1) failed to download SRR5488451
+
+2018-08-09T14:00:48 prefetch.2.8.2: 1) Downloading 'SRR1770371'...
+2018-08-09T14:00:48 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:00:51 prefetch.2.8.2: 1) 'SRR2144459' was downloaded successfully
+2018-08-09T14:00:51 prefetch.2.8.2: 'SRR2144459' has 0 unresolved dependencies
+Rejected 17389622 READS because READLEN < 1
+Read 17389622 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144423.sra
+Written 17389622 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144423.sra
+
+2018-08-09T14:01:05 prefetch.2.8.2: 1) Downloading 'SRR2144422'...
+2018-08-09T14:01:05 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:01:15 prefetch.2.8.2: 1) 'SRR2144422' was downloaded successfully
+2018-08-09T14:01:15 prefetch.2.8.2: 'SRR2144422' has 0 unresolved dependencies
+Rejected 19255835 READS because READLEN < 1
+Read 19255835 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144398.sra
+Written 19255835 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144398.sra
+
+2018-08-09T14:01:25 prefetch.2.8.2: 1) Downloading 'ERR986097'...
+2018-08-09T14:01:25 prefetch.2.8.2:  Downloading via https...
+Read 11097138 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986101.sra
+Written 11097138 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986101.sra
+
+2018-08-09T14:01:37 prefetch.2.8.2: 1) Downloading 'SRR2144432'...
+2018-08-09T14:01:37 prefetch.2.8.2:  Downloading via https...
+Rejected 19620745 READS because READLEN < 1
+Read 19620745 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144441.sra
+Written 19620745 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144441.sra
+
+2018-08-09T14:01:52 prefetch.2.8.2: 1) Downloading 'SRR2144434'...
+2018-08-09T14:01:52 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:02:01 prefetch.2.8.2: 1) 'SRR2144434' was downloaded successfully
+2018-08-09T14:02:01 prefetch.2.8.2: 'SRR2144434' has 0 unresolved dependencies
+2018-08-09T14:02:02 prefetch.2.8.2: 1) 'SRR2144432' was downloaded successfully
+2018-08-09T14:02:02 prefetch.2.8.2: 'SRR2144432' has 0 unresolved dependencies
+Rejected 20676283 READS because READLEN < 1
+Read 20676283 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144475.sra
+Written 20676283 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144475.sra
+
+2018-08-09T14:02:06 prefetch.2.8.2: 1) Downloading 'SRR2144407'...
+2018-08-09T14:02:06 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:02:12 prefetch.2.8.2: 1) 'SRR2144407' was downloaded successfully
+2018-08-09T14:02:12 prefetch.2.8.2: 'SRR2144407' has 0 unresolved dependencies
+Rejected 12111548 READS because READLEN < 1
+Read 12111548 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144453.sra
+Written 12111548 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144453.sra
+
+2018-08-09T14:02:13 prefetch.2.8.2: 1) Downloading 'SRR2144467'...
+2018-08-09T14:02:13 prefetch.2.8.2:  Downloading via https...
+Read 12207137 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986100.sra
+Written 12207137 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986100.sra
+
+Read 12320534 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986113.sra
+Written 12320534 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986113.sra
+
+2018-08-09T14:02:20 prefetch.2.8.2: 1) Downloading 'ERR986103'...
+2018-08-09T14:02:20 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:02:23 prefetch.2.8.2: 1) Downloading 'SRR2144433'...
+2018-08-09T14:02:23 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:02:24 prefetch.2.8.2: 1) 'SRR1770371' was downloaded successfully
+2018-08-09T14:02:30 prefetch.2.8.2: 1) 'SRR2144433' was downloaded successfully
+2018-08-09T14:02:30 prefetch.2.8.2: 'SRR2144433' has 0 unresolved dependencies
+2018-08-09T14:02:31 prefetch.2.8.2: 1) 'SRR1770382' was downloaded successfully
+2018-08-09T14:02:32 prefetch.2.8.2: 1) 'SRR2144467' was downloaded successfully
+2018-08-09T14:02:32 prefetch.2.8.2: 'SRR2144467' has 0 unresolved dependencies
+2018-08-09T14:02:33 prefetch.2.8.2: 1) 'SRR1770387' was downloaded successfully
+2018-08-09T14:02:34 prefetch.2.8.2: 1) 'SRR1770384' was downloaded successfully
+2018-08-09T14:02:58 prefetch.2.8.2: 1) 'ERR986103' was downloaded successfully
+Rejected 23402887 READS because READLEN < 1
+Read 23402887 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144442.sra
+Written 23402887 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144442.sra
+
+2018-08-09T14:03:16 prefetch.2.8.2: 1) Downloading 'SRR2144451'...
+2018-08-09T14:03:16 prefetch.2.8.2:  Downloading via https...
+Read 9163374 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986087.sra
+Written 9163374 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986087.sra
+
+2018-08-09T14:03:22 prefetch.2.8.2: 1) Downloading 'SRR5488466'...
+2018-08-09T14:03:22 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:03:29 prefetch.2.8.2: 1) 'SRR2144451' was downloaded successfully
+2018-08-09T14:03:29 prefetch.2.8.2: 'SRR2144451' has 0 unresolved dependencies
+2018-08-09T14:03:30 prefetch.2.8.2: 1) 'ERR986097' was downloaded successfully
+Rejected 15993065 READS because READLEN < 1
+Read 15993065 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144437.sra
+Written 15993065 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144437.sra
+
+2018-08-09T14:03:39 prefetch.2.8.2: 1) Downloading 'SRR5488449'...
+2018-08-09T14:03:39 prefetch.2.8.2:  Downloading via https...
+Rejected 8094127 READS because READLEN < 1
+Read 8094127 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144432.sra
+Written 8094127 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144432.sra
+
+Rejected 20547939 READS because READLEN < 1
+Read 20547939 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144466.sra
+Written 20547939 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144466.sra
+
+2018-08-09T14:04:03 prefetch.2.8.2: 1) Downloading 'SRR5488454'...
+2018-08-09T14:04:03 prefetch.2.8.2:  Downloading via https...
+Rejected 6830337 READS because READLEN < 1
+Read 6830337 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144433.sra
+Written 6830337 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144433.sra
+
+2018-08-09T14:04:17 prefetch.2.8.2: 1) Downloading 'SRR2144464'...
+2018-08-09T14:04:17 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:04:21 prefetch.2.8.2: 1) Downloading 'SRR1767792'...
+2018-08-09T14:04:21 prefetch.2.8.2:  Downloading via https...
+Read 16095850 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986083.sra
+Written 16095850 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986083.sra
+
+2018-08-09T14:04:29 prefetch.2.8.2: 1) 'SRR2144464' was downloaded successfully
+2018-08-09T14:04:29 prefetch.2.8.2: 'SRR2144464' has 0 unresolved dependencies
+2018-08-09T14:04:29 prefetch.2.8.2: 1) Downloading 'ERR986095'...
+2018-08-09T14:04:29 prefetch.2.8.2:  Downloading via https...
+Rejected 13510433 READS because READLEN < 1
+Read 13510433 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144459.sra
+Written 13510433 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144459.sra
+
+Rejected 11137696 READS because READLEN < 1
+Read 11137696 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144407.sra
+Written 11137696 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144407.sra
+2018-08-09T14:04:44 prefetch.2.8.2: 1) Downloading 'SRR2144411'...
+2018-08-09T14:04:44 prefetch.2.8.2:  Downloading via https...
+
+2018-08-09T14:04:54 prefetch.2.8.2: 1) Downloading 'SRR2144401'...
+2018-08-09T14:04:54 prefetch.2.8.2:  Downloading via https...
+Read 12345499 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986114.sra
+Written 12345499 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986114.sra
+
+2018-08-09T14:04:55 prefetch.2.8.2: 1) Downloading 'SRR1767790'...
+2018-08-09T14:04:55 prefetch.2.8.2:  Downloading via https...
+Rejected 11501741 READS because READLEN < 1
+Read 11501741 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144467.sra
+Written 11501741 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144467.sra
+
+2018-08-09T14:05:02 prefetch.2.8.2: 1) Downloading 'SRR2144454'...
+2018-08-09T14:05:02 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:05:05 prefetch.2.8.2: 1) 'SRR2144401' was downloaded successfully
+2018-08-09T14:05:05 prefetch.2.8.2: 'SRR2144401' has 0 unresolved dependencies
+Read 6417547 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986103.sra
+Written 6417547 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986103.sra
+
+2018-08-09T14:05:18 prefetch.2.8.2: 1) Downloading 'SRR1767793'...
+2018-08-09T14:05:18 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:05:21 prefetch.2.8.2: 1) 'SRR2144411' was downloaded successfully
+2018-08-09T14:05:21 prefetch.2.8.2: 'SRR2144411' has 0 unresolved dependencies
+2018-08-09T14:05:21 prefetch.2.8.2: 1) 'SRR2144454' was downloaded successfully
+2018-08-09T14:05:22 prefetch.2.8.2: 'SRR2144454' has 0 unresolved dependencies
+2018-08-09T14:05:22 prefetch.2.8.2: 1) 'ERR986095' was downloaded successfully
+Rejected 14364995 READS because READLEN < 1
+Read 14364995 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144434.sra
+Written 14364995 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144434.sra
+
+2018-08-09T14:05:29 prefetch.2.8.2: 1) Downloading 'SRR1770366'...
+2018-08-09T14:05:29 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:05:46 prefetch.2.8.2: 1) failed to download SRR5488449
+
+2018-08-09T14:05:48 prefetch.2.8.2: 1) Downloading 'SRR1770375'...
+2018-08-09T14:05:48 prefetch.2.8.2:  Downloading via https...
+Rejected 16617499 READS because READLEN < 1
+Read 16617499 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144422.sra
+Written 16617499 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144422.sra
+
+2018-08-09T14:05:56 prefetch.2.8.2: 1) Downloading 'SRR2144418'...
+2018-08-09T14:05:56 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:06:03 prefetch.2.8.2: 1) 'SRR2144418' was downloaded successfully
+2018-08-09T14:06:03 prefetch.2.8.2: 'SRR2144418' has 0 unresolved dependencies
+Read 13196309 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986096.sra
+Written 13196309 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986096.sra
+
+2018-08-09T14:06:21 prefetch.2.8.2: 1) Downloading 'SRR1770378'...
+2018-08-09T14:06:21 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:06:30 prefetch.2.8.2: 1) failed to download SRR5488454
+
+2018-08-09T14:06:32 prefetch.2.8.2: 1) Downloading 'SRR2144387'...
+2018-08-09T14:06:32 prefetch.2.8.2:  Downloading via https...
+Rejected 32009242 READS because READLEN < 1
+Read 32009242 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144385.sra
+Written 32009242 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144385.sra
+
+2018-08-09T14:06:50 prefetch.2.8.2: 1) Downloading 'SRR1770367'...
+2018-08-09T14:06:50 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:07:03 prefetch.2.8.2: 1) 'SRR1767792' was downloaded successfully
+2018-08-09T14:07:06 prefetch.2.8.2: 1) 'SRR1767790' was downloaded successfully
+2018-08-09T14:07:06 prefetch.2.8.2: 1) 'SRR2144387' was downloaded successfully
+2018-08-09T14:07:06 prefetch.2.8.2: 'SRR2144387' has 0 unresolved dependencies
+2018-08-09T14:07:20 prefetch.2.8.2: 1) 'SRR1770375' was downloaded successfully
+2018-08-09T14:07:32 prefetch.2.8.2: 1) 'SRR1770366' was downloaded successfully
+2018-08-09T14:07:37 prefetch.2.8.2: 1) 'SRR1767793' was downloaded successfully
+2018-08-09T14:07:43 prefetch.2.8.2: 1) 'SRR1770378' was downloaded successfully
+Rejected 18085595 READS because READLEN < 1
+Read 18085595 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144451.sra
+Written 18085595 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144451.sra
+
+2018-08-09T14:07:49 prefetch.2.8.2: 1) Downloading 'SRR2144426'...
+2018-08-09T14:07:49 prefetch.2.8.2:  Downloading via https...
+Rejected 20929879 READS because READLEN < 1
+Read 20929879 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144397.sra
+Written 20929879 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144397.sra
+
+2018-08-09T14:07:56 prefetch.2.8.2: 1) Downloading 'SRR2144460'...
+2018-08-09T14:07:56 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:07:57 prefetch.2.8.2: 1) 'SRR1770367' was downloaded successfully
+2018-08-09T14:08:01 prefetch.2.8.2: 1) 'SRR2144426' was downloaded successfully
+2018-08-09T14:08:01 prefetch.2.8.2: 'SRR2144426' has 0 unresolved dependencies
+2018-08-09T14:08:03 prefetch.2.8.2: 1) 'SRR2144460' was downloaded successfully
+2018-08-09T14:08:03 prefetch.2.8.2: 'SRR2144460' has 0 unresolved dependencies
+Rejected 14184814 READS because READLEN < 1
+Read 14184814 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144401.sra
+Written 14184814 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144401.sra
+
+2018-08-09T14:08:07 prefetch.2.8.2: 1) Downloading 'SRR2144390'...
+2018-08-09T14:08:07 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:08:21 prefetch.2.8.2: 1) 'SRR2144390' was downloaded successfully
+2018-08-09T14:08:21 prefetch.2.8.2: 'SRR2144390' has 0 unresolved dependencies
+Read 24448659 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941978.sra
+Written 24448659 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941978.sra
+
+Rejected 11387097 READS because READLEN < 1
+Read 11387097 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144418.sra
+Written 11387097 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144418.sra
+
+2018-08-09T14:08:37 prefetch.2.8.2: 1) Downloading 'SRR2144403'...
+2018-08-09T14:08:37 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:08:37 prefetch.2.8.2: 1) Downloading 'SRR2144420'...
+2018-08-09T14:08:37 prefetch.2.8.2:  Downloading via https...
+Rejected 18441833 READS because READLEN < 1
+Read 18441833 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144464.sra
+Written 18441833 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144464.sra
+
+2018-08-09T14:08:42 prefetch.2.8.2: 1) Downloading 'ERR986088'...
+2018-08-09T14:08:42 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:08:42 prefetch.2.8.2: 1) 'SRR2144403' was downloaded successfully
+2018-08-09T14:08:42 prefetch.2.8.2: 'SRR2144403' has 0 unresolved dependencies
+2018-08-09T14:08:49 prefetch.2.8.2: 1) 'SRR2144420' was downloaded successfully
+2018-08-09T14:08:49 prefetch.2.8.2: 'SRR2144420' has 0 unresolved dependencies
+Rejected 14658949 READS because READLEN < 1
+Read 14658949 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144454.sra
+Written 14658949 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144454.sra
+
+2018-08-09T14:09:00 prefetch.2.8.2: 1) Downloading 'SRR1770380'...
+2018-08-09T14:09:00 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:09:21 prefetch.2.8.2: 1) 'ERR986088' was downloaded successfully
+Rejected 8395860 READS because READLEN < 1
+Read 8395860 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144420.sra
+Written 8395860 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144420.sra
+
+2018-08-09T14:10:28 prefetch.2.8.2: 1) Downloading 'SRR5488450'...
+2018-08-09T14:10:28 prefetch.2.8.2:  Downloading via https...
+Read 39469624 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770369.sra
+Written 39469624 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770369.sra
+
+2018-08-09T14:10:32 prefetch.2.8.2: 1) Downloading 'SRR1767796'...
+2018-08-09T14:10:32 prefetch.2.8.2:  Downloading via https...
+Read 23374089 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941977.sra
+Written 23374089 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941977.sra
+
+2018-08-09T14:10:34 prefetch.2.8.2: 1) Downloading 'SRR2144384'...
+2018-08-09T14:10:34 prefetch.2.8.2:  Downloading via https...
+Rejected 14212634 READS because READLEN < 1
+Read 14212634 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144460.sra
+Written 14212634 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144460.sra
+
+2018-08-09T14:10:39 prefetch.2.8.2: 1) Downloading 'SRR1770383'...
+2018-08-09T14:10:39 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:10:42 prefetch.2.8.2: 1) 'SRR2144384' was downloaded successfully
+2018-08-09T14:10:42 prefetch.2.8.2: 'SRR2144384' has 0 unresolved dependencies
+Read 22337945 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986118.sra
+Written 22337945 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986118.sra
+
+2018-08-09T14:10:51 prefetch.2.8.2: 1) Downloading 'SRR2144444'...
+2018-08-09T14:10:51 prefetch.2.8.2:  Downloading via https...
+Read 13211728 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986095.sra
+Written 13211728 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986095.sra
+
+2018-08-09T14:10:59 prefetch.2.8.2: 1) Downloading 'SRR5488461'...
+2018-08-09T14:10:59 prefetch.2.8.2:  Downloading via https...
+Read 22292783 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986117.sra
+Written 22292783 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986117.sra
+
+2018-08-09T14:11:02 prefetch.2.8.2: 1) 'SRR5488466' was downloaded successfully
+2018-08-09T14:11:03 prefetch.2.8.2: 1) Downloading 'ERR986111'...
+2018-08-09T14:11:03 prefetch.2.8.2:  Downloading via https...
+Read 18961410 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986097.sra
+Written 18961410 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986097.sra
+
+2018-08-09T14:11:04 prefetch.2.8.2: 1) 'SRR1770380' was downloaded successfully
+2018-08-09T14:11:04 prefetch.2.8.2: 1) Downloading 'SRR2144404'...
+2018-08-09T14:11:04 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:11:06 prefetch.2.8.2: 1) 'SRR2144444' was downloaded successfully
+2018-08-09T14:11:06 prefetch.2.8.2: 'SRR2144444' has 0 unresolved dependencies
+Read 37107904 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770371.sra
+Written 37107904 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770371.sra
+
+2018-08-09T14:11:12 prefetch.2.8.2: 1) Downloading 'SRR1770374'...
+2018-08-09T14:11:12 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:11:12 prefetch.2.8.2: 1) 'SRR2144404' was downloaded successfully
+2018-08-09T14:11:12 prefetch.2.8.2: 'SRR2144404' has 0 unresolved dependencies
+Rejected 15402246 READS because READLEN < 1
+Read 15402246 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144403.sra
+Written 15402246 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144403.sra
+
+Rejected 17235128 READS because READLEN < 1
+Read 17235128 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144390.sra
+Written 17235128 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144390.sra
+
+2018-08-09T14:11:21 prefetch.2.8.2: 1) Downloading 'SRR2144427'...
+2018-08-09T14:11:21 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:11:23 prefetch.2.8.2: 1) Downloading 'SRR2144474'...
+2018-08-09T14:11:23 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:11:25 prefetch.2.8.2: 1) 'SRR2144427' was downloaded successfully
+2018-08-09T14:11:25 prefetch.2.8.2: 'SRR2144427' has 0 unresolved dependencies
+Read 55551383 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767795.sra
+Written 55551383 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767795.sra
+2018-08-09T14:11:30 prefetch.2.8.2: 1) 'SRR2144474' was downloaded successfully
+2018-08-09T14:11:30 prefetch.2.8.2: 'SRR2144474' has 0 unresolved dependencies
+
+2018-08-09T14:11:31 prefetch.2.8.2: 1) Downloading 'SRR1770365'...
+2018-08-09T14:11:31 prefetch.2.8.2:  Downloading via https...
+Rejected 20564453 READS because READLEN < 1
+Read 20564453 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144426.sra
+Written 20564453 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144426.sra
+
+2018-08-09T14:11:41 prefetch.2.8.2: 1) Downloading 'SRR2144430'...
+2018-08-09T14:11:41 prefetch.2.8.2:  Downloading via https...
+Read 9180681 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986088.sra
+Written 9180681 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986088.sra
+
+Read 55803028 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770381.sra
+Written 55803028 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770381.sra
+
+2018-08-09T14:11:46 prefetch.2.8.2: 1) Downloading 'SRR2144463'...
+2018-08-09T14:11:46 prefetch.2.8.2:  Downloading via https...
+Read 53039179 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770370.sra
+Written 53039179 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770370.sra
+
+2018-08-09T14:11:49 prefetch.2.8.2: 1) Downloading 'SRR2144402'...
+2018-08-09T14:11:49 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:11:51 prefetch.2.8.2: 1) 'SRR2144430' was downloaded successfully
+2018-08-09T14:11:51 prefetch.2.8.2: 'SRR2144430' has 0 unresolved dependencies
+2018-08-09T14:11:51 prefetch.2.8.2: 1) 'SRR2144463' was downloaded successfully
+2018-08-09T14:11:51 prefetch.2.8.2: 'SRR2144463' has 0 unresolved dependencies
+2018-08-09T14:11:52 prefetch.2.8.2: 1) Downloading 'SRR2144465'...
+2018-08-09T14:11:52 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:11:53 prefetch.2.8.2: 1) 'SRR1770374' was downloaded successfully
+2018-08-09T14:11:53 prefetch.2.8.2: 1) 'SRR1770383' was downloaded successfully
+2018-08-09T14:11:54 prefetch.2.8.2: 1) 'ERR986111' was downloaded successfully
+2018-08-09T14:11:56 prefetch.2.8.2: 1) 'SRR1767796' was downloaded successfully
+2018-08-09T14:12:01 prefetch.2.8.2: 1) 'SRR2144402' was downloaded successfully
+2018-08-09T14:12:01 prefetch.2.8.2: 'SRR2144402' has 0 unresolved dependencies
+2018-08-09T14:12:01 prefetch.2.8.2: 1) 'SRR2144465' was downloaded successfully
+2018-08-09T14:12:01 prefetch.2.8.2: 'SRR2144465' has 0 unresolved dependencies
+Rejected 6908557 READS because READLEN < 1
+Read 6908557 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144427.sra
+Written 6908557 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144427.sra
+
+2018-08-09T14:12:18 prefetch.2.8.2: 1) Downloading 'SRR5488463'...
+2018-08-09T14:12:18 prefetch.2.8.2:  Downloading via https...
+Rejected 13783473 READS because READLEN < 1
+Read 13783473 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144404.sra
+Written 13783473 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144404.sra
+
+2018-08-09T14:12:58 prefetch.2.8.2: 1) Downloading 'ERR986092'...
+2018-08-09T14:12:58 prefetch.2.8.2:  Downloading via https...
+Read 48845423 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770384.sra
+Written 48845423 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770384.sra
+
+2018-08-09T14:13:03 prefetch.2.8.2: 1) 'SRR1770365' was downloaded successfully
+2018-08-09T14:13:04 prefetch.2.8.2: 1) Downloading 'SRR2144425'...
+2018-08-09T14:13:04 prefetch.2.8.2:  Downloading via https...
+Rejected 9277113 READS because READLEN < 1
+Read 9277113 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144463.sra
+Written 9277113 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144463.sra
+
+2018-08-09T14:13:08 prefetch.2.8.2: 1) Downloading 'SRR2144457'...
+2018-08-09T14:13:08 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:13:11 prefetch.2.8.2: 1) 'SRR2144425' was downloaded successfully
+2018-08-09T14:13:12 prefetch.2.8.2: 'SRR2144425' has 0 unresolved dependencies
+Read 65719035 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767791.sra
+Written 65719035 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767791.sra
+
+2018-08-09T14:13:13 prefetch.2.8.2: 1) Downloading 'SRR5488462'...
+2018-08-09T14:13:13 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:13:17 prefetch.2.8.2: 1) 'SRR2144457' was downloaded successfully
+2018-08-09T14:13:17 prefetch.2.8.2: 'SRR2144457' has 0 unresolved dependencies
+Read 51274131 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770382.sra
+Written 51274131 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770382.sra
+
+2018-08-09T14:13:20 prefetch.2.8.2: 1) 'ERR986092' was downloaded successfully
+2018-08-09T14:13:20 prefetch.2.8.2: 1) Downloading 'SRR2144416'...
+2018-08-09T14:13:20 prefetch.2.8.2:  Downloading via https...
+Rejected 27218312 READS because READLEN < 1
+Read 27218312 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144387.sra
+Written 27218312 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144387.sra
+
+2018-08-09T14:13:21 prefetch.2.8.2: 1) Downloading 'SRR2144417'...
+2018-08-09T14:13:21 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:13:26 prefetch.2.8.2: 1) 'SRR2144417' was downloaded successfully
+2018-08-09T14:13:26 prefetch.2.8.2: 'SRR2144417' has 0 unresolved dependencies
+2018-08-09T14:13:28 prefetch.2.8.2: 1) 'SRR2144416' was downloaded successfully
+2018-08-09T14:13:28 prefetch.2.8.2: 'SRR2144416' has 0 unresolved dependencies
+Rejected 14292390 READS because READLEN < 1
+Read 14292390 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144474.sra
+Written 14292390 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144474.sra
+
+2018-08-09T14:13:37 prefetch.2.8.2: 1) Downloading 'SRR5488455'...
+2018-08-09T14:13:37 prefetch.2.8.2:  Downloading via https...
+Read 37462222 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770375.sra
+Written 37462222 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770375.sra
+
+2018-08-09T14:13:55 prefetch.2.8.2: 1) Downloading 'SRR2144447'...
+2018-08-09T14:13:55 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:14:01 prefetch.2.8.2: 1) 'SRR2144447' was downloaded successfully
+2018-08-09T14:14:01 prefetch.2.8.2: 'SRR2144447' has 0 unresolved dependencies
+Read 38663739 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770378.sra
+Written 38663739 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770378.sra
+Rejected 19337545 READS because READLEN < 1
+Read 19337545 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144444.sra
+Written 19337545 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144444.sra
+
+
+2018-08-09T14:14:11 prefetch.2.8.2: 1) Downloading 'SRR2144438'...
+2018-08-09T14:14:11 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:14:11 prefetch.2.8.2: 1) Downloading 'ERR986086'...
+2018-08-09T14:14:11 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:14:19 prefetch.2.8.2: 1) 'SRR2144438' was downloaded successfully
+2018-08-09T14:14:19 prefetch.2.8.2: 'SRR2144438' has 0 unresolved dependencies
+2018-08-09T14:14:28 prefetch.2.8.2: 1) 'ERR986086' was downloaded successfully
+Rejected 9018866 READS because READLEN < 1
+Read 9018866 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144417.sra
+Written 9018866 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144417.sra
+
+2018-08-09T14:14:40 prefetch.2.8.2: 1) Downloading 'SRR2144456'...
+2018-08-09T14:14:40 prefetch.2.8.2:  Downloading via https...
+Read 59525450 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770387.sra
+Written 59525450 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770387.sra
+
+2018-08-09T14:14:44 prefetch.2.8.2: 1) Downloading 'ERR986116'...
+2018-08-09T14:14:44 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:14:48 prefetch.2.8.2: 1) 'SRR2144456' was downloaded successfully
+2018-08-09T14:14:48 prefetch.2.8.2: 'SRR2144456' has 0 unresolved dependencies
+Read 41871561 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770367.sra
+Written 41871561 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770367.sra
+
+2018-08-09T14:14:52 prefetch.2.8.2: 1) Downloading 'SRR2144439'...
+2018-08-09T14:14:52 prefetch.2.8.2:  Downloading via https...
+Rejected 24589410 READS because READLEN < 1
+Read 24589410 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144384.sra
+Written 24589410 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144384.sra
+
+2018-08-09T14:14:57 prefetch.2.8.2: 1) Downloading 'ERR986099'...
+2018-08-09T14:14:57 prefetch.2.8.2:  Downloading via https...
+Rejected 17532745 READS because READLEN < 1
+Read 17532745 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144465.sra
+Written 17532745 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144465.sra
+
+2018-08-09T14:15:00 prefetch.2.8.2: 1) Downloading 'SRR2144400'...
+2018-08-09T14:15:00 prefetch.2.8.2:  Downloading via https...
+Read 44218176 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770366.sra
+Written 44218176 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770366.sra
+
+2018-08-09T14:15:02 prefetch.2.8.2: 1) Downloading 'ERR986084'...
+2018-08-09T14:15:02 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:15:03 prefetch.2.8.2: 1) 'SRR2144439' was downloaded successfully
+2018-08-09T14:15:03 prefetch.2.8.2: 'SRR2144439' has 0 unresolved dependencies
+2018-08-09T14:15:05 prefetch.2.8.2: 1) 'SRR2144400' was downloaded successfully
+2018-08-09T14:15:05 prefetch.2.8.2: 'SRR2144400' has 0 unresolved dependencies
+Rejected 8980568 READS because READLEN < 1
+Read 8980568 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144447.sra
+Written 8980568 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144447.sra
+
+2018-08-09T14:15:18 prefetch.2.8.2: 1) Downloading 'ERR986091'...
+2018-08-09T14:15:18 prefetch.2.8.2:  Downloading via https...
+Rejected 40092717 READS because READLEN < 1
+Read 40092717 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144411.sra
+Written 40092717 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144411.sra
+
+2018-08-09T14:15:20 prefetch.2.8.2: 1) Downloading 'SRR2144443'...
+2018-08-09T14:15:20 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:15:22 prefetch.2.8.2: 1) 'ERR986099' was downloaded successfully
+2018-08-09T14:15:23 prefetch.2.8.2: 1) 'ERR986116' was downloaded successfully
+2018-08-09T14:15:27 prefetch.2.8.2: 1) 'SRR2144443' was downloaded successfully
+2018-08-09T14:15:27 prefetch.2.8.2: 'SRR2144443' has 0 unresolved dependencies
+Read 9886949 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986092.sra
+Written 9886949 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986092.sra
+
+2018-08-09T14:15:36 prefetch.2.8.2: 1) Downloading 'SRR1767794'...
+2018-08-09T14:15:36 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:15:37 prefetch.2.8.2: 1) 'ERR986084' was downloaded successfully
+2018-08-09T14:15:38 prefetch.2.8.2: 1) 'ERR986091' was downloaded successfully
+Rejected 21074293 READS because READLEN < 1
+Read 21074293 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144430.sra
+Written 21074293 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144430.sra
+Read 31066420 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770380.sra
+Written 31066420 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770380.sra
+
+
+2018-08-09T14:15:41 prefetch.2.8.2: 1) Downloading 'SRR1770385'...
+2018-08-09T14:15:41 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:15:41 prefetch.2.8.2: 1) Downloading 'SRR2144413'...
+2018-08-09T14:15:41 prefetch.2.8.2:  Downloading via https...
+Read 14847964 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986111.sra
+Written 14847964 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986111.sra
+
+2018-08-09T14:15:47 prefetch.2.8.2: 1) 'SRR2144413' was downloaded successfully
+2018-08-09T14:15:47 prefetch.2.8.2: 'SRR2144413' has 0 unresolved dependencies
+2018-08-09T14:15:47 prefetch.2.8.2: 1) Downloading 'SRR2144421'...
+2018-08-09T14:15:47 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:15:50 prefetch.2.8.2: 1) 'SRR2144421' was downloaded successfully
+2018-08-09T14:15:50 prefetch.2.8.2: 'SRR2144421' has 0 unresolved dependencies
+Read 7229515 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986086.sra
+Written 7229515 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986086.sra
+
+2018-08-09T14:16:09 prefetch.2.8.2: 1) Downloading 'SRR1770379'...
+2018-08-09T14:16:09 prefetch.2.8.2:  Downloading via https...
+Rejected 22727664 READS because READLEN < 1
+Read 22727664 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144402.sra
+Written 22727664 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144402.sra
+
+2018-08-09T14:16:19 prefetch.2.8.2: 1) Downloading 'SRR2144452'...
+2018-08-09T14:16:19 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:16:26 prefetch.2.8.2: 1) 'SRR2144452' was downloaded successfully
+2018-08-09T14:16:26 prefetch.2.8.2: 'SRR2144452' has 0 unresolved dependencies
+Rejected 18841581 READS because READLEN < 1
+Read 18841581 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144416.sra
+Written 18841581 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144416.sra
+
+2018-08-09T14:16:28 prefetch.2.8.2: 1) Downloading 'SRR2144393'...
+2018-08-09T14:16:28 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:16:32 prefetch.2.8.2: 1) 'SRR1767794' was downloaded successfully
+2018-08-09T14:16:36 prefetch.2.8.2: 1) 'SRR2144393' was downloaded successfully
+2018-08-09T14:16:36 prefetch.2.8.2: 'SRR2144393' has 0 unresolved dependencies
+2018-08-09T14:16:47 prefetch.2.8.2: 1) 'SRR1770385' was downloaded successfully
+Rejected 12679560 READS because READLEN < 1
+Read 12679560 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144400.sra
+Written 12679560 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144400.sra
+
+2018-08-09T14:16:52 prefetch.2.8.2: 1) Downloading 'SRR2144428'...
+2018-08-09T14:16:52 prefetch.2.8.2:  Downloading via https...
+Rejected 7241880 READS because READLEN < 1
+Read 7241880 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144421.sra
+Written 7241880 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144421.sra
+
+2018-08-09T14:16:53 prefetch.2.8.2: 1) Downloading 'SRR2144399'...
+2018-08-09T14:16:53 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:16:53 prefetch.2.8.2: 1) 'SRR1770379' was downloaded successfully
+2018-08-09T14:16:55 prefetch.2.8.2: 1) 'SRR5488463' was downloaded successfully
+2018-08-09T14:16:55 prefetch.2.8.2: 1) 'SRR2144428' was downloaded successfully
+2018-08-09T14:16:55 prefetch.2.8.2: 'SRR2144428' has 0 unresolved dependencies
+Rejected 14679131 READS because READLEN < 1
+Read 14679131 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144456.sra
+Written 14679131 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144456.sra
+
+2018-08-09T14:16:57 prefetch.2.8.2: 1) Downloading 'ERR986094'...
+2018-08-09T14:16:57 prefetch.2.8.2:  Downloading via https...
+Rejected 21018190 READS because READLEN < 1
+Read 21018190 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144457.sra
+Written 21018190 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144457.sra
+
+2018-08-09T14:16:59 prefetch.2.8.2: 1) Downloading 'SRR5488458'...
+2018-08-09T14:16:59 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:17:00 prefetch.2.8.2: 1) 'SRR2144399' was downloaded successfully
+2018-08-09T14:17:00 prefetch.2.8.2: 'SRR2144399' has 0 unresolved dependencies
+2018-08-09T14:17:15 prefetch.2.8.2: 1) 'ERR986094' was downloaded successfully
+2018-08-09T14:17:27 prefetch.2.8.2: 1) 'SRR5488461' was downloaded successfully
+Rejected 23866723 READS because READLEN < 1
+Read 23866723 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144425.sra
+Written 23866723 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144425.sra
+
+2018-08-09T14:17:30 prefetch.2.8.2: 1) Downloading 'SRR2144392'...
+2018-08-09T14:17:30 prefetch.2.8.2:  Downloading via https...
+Read 57667131 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767793.sra
+Written 57667131 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767793.sra
+
+2018-08-09T14:17:34 prefetch.2.8.2: 1) 'SRR2144392' was downloaded successfully
+2018-08-09T14:17:34 prefetch.2.8.2: 'SRR2144392' has 0 unresolved dependencies
+2018-08-09T14:17:34 prefetch.2.8.2: 1) Downloading 'SRR2144408'...
+2018-08-09T14:17:34 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:17:36 prefetch.2.8.2: 1) 'SRR5488462' was downloaded successfully
+2018-08-09T14:17:38 prefetch.2.8.2: 1) 'SRR2144408' was downloaded successfully
+2018-08-09T14:17:38 prefetch.2.8.2: 'SRR2144408' has 0 unresolved dependencies
+2018-08-09T14:17:51 prefetch.2.8.2: 1) 'SRR5488455' was downloaded successfully
+2018-08-09T14:17:56 prefetch.2.8.2: 1) 'SRR5488450' was downloaded successfully
+Read 38915010 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770374.sra
+Written 38915010 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770374.sra
+
+2018-08-09T14:18:03 prefetch.2.8.2: 1) Downloading 'SRR5488456'...
+2018-08-09T14:18:03 prefetch.2.8.2:  Downloading via https...
+Rejected 8250411 READS because READLEN < 1
+Read 8250411 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144428.sra
+Written 8250411 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144428.sra
+
+Read 9830545 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986091.sra
+Written 9830545 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986091.sra
+
+2018-08-09T14:18:16 prefetch.2.8.2: 1) Downloading 'SRR1770377'...
+2018-08-09T14:18:16 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:18:16 prefetch.2.8.2: 1) Downloading 'ERR986108'...
+2018-08-09T14:18:16 prefetch.2.8.2:  Downloading via https...
+Rejected 22262474 READS because READLEN < 1
+Read 22262474 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144438.sra
+Written 22262474 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144438.sra
+Read 63913747 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767792.sra
+Written 63913747 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767792.sra
+
+
+2018-08-09T14:18:28 prefetch.2.8.2: 1) Downloading 'SRR2144383'...
+2018-08-09T14:18:28 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:18:29 prefetch.2.8.2: 1) Downloading 'ERR986110'...
+2018-08-09T14:18:29 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:18:32 prefetch.2.8.2: 1) 'SRR2144383' was downloaded successfully
+2018-08-09T14:18:32 prefetch.2.8.2: 'SRR2144383' has 0 unresolved dependencies
+2018-08-09T14:18:32 prefetch.2.8.2: 1) 'ERR986108' was downloaded successfully
+Rejected 17775028 READS because READLEN < 1
+Read 17775028 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144413.sra
+Written 17775028 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144413.sra
+
+2018-08-09T14:18:47 prefetch.2.8.2: 1) Downloading 'SRR2144409'...
+2018-08-09T14:18:47 prefetch.2.8.2:  Downloading via https...
+Read 12194485 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986099.sra
+Written 12194485 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986099.sra
+
+2018-08-09T14:18:49 prefetch.2.8.2: 1) Downloading 'SRR5488457'...
+2018-08-09T14:18:49 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:18:51 prefetch.2.8.2: 1) 'SRR2144409' was downloaded successfully
+2018-08-09T14:18:51 prefetch.2.8.2: 'SRR2144409' has 0 unresolved dependencies
+2018-08-09T14:18:54 prefetch.2.8.2: 1) 'ERR986110' was downloaded successfully
+Rejected 14264413 READS because READLEN < 1
+Read 14264413 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144452.sra
+Written 14264413 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144452.sra
+
+2018-08-09T14:18:56 prefetch.2.8.2: 1) Downloading 'SRR2144471'...
+2018-08-09T14:18:56 prefetch.2.8.2:  Downloading via https...
+Read 64483438 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767790.sra
+Written 64483438 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767790.sra
+
+2018-08-09T14:18:58 prefetch.2.8.2: 1) Downloading 'SRR2144445'...
+2018-08-09T14:18:58 prefetch.2.8.2:  Downloading via https...
+Rejected 8895258 READS because READLEN < 1
+Read 8895258 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144392.sra
+Written 8895258 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144392.sra
+
+2018-08-09T14:18:59 prefetch.2.8.2: 1) Downloading 'ERR986085'...
+2018-08-09T14:18:59 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:19:03 prefetch.2.8.2: 1) 'SRR2144471' was downloaded successfully
+2018-08-09T14:19:03 prefetch.2.8.2: 'SRR2144471' has 0 unresolved dependencies
+Rejected 9161851 READS because READLEN < 1
+Read 9161851 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144408.sra
+Written 9161851 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144408.sra
+
+2018-08-09T14:19:06 prefetch.2.8.2: 1) Downloading 'SRR2144458'...
+2018-08-09T14:19:06 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:19:13 prefetch.2.8.2: 1) 'SRR1770377' was downloaded successfully
+2018-08-09T14:19:14 prefetch.2.8.2: 1) 'SRR2144458' was downloaded successfully
+2018-08-09T14:19:14 prefetch.2.8.2: 'SRR2144458' has 0 unresolved dependencies
+2018-08-09T14:19:15 prefetch.2.8.2: 1) 'ERR986085' was downloaded successfully
+2018-08-09T14:19:17 prefetch.2.8.2: 1) 'SRR2144445' was downloaded successfully
+2018-08-09T14:19:17 prefetch.2.8.2: 'SRR2144445' has 0 unresolved dependencies
+Rejected 7114487 READS because READLEN < 1
+Read 7114487 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144383.sra
+Written 7114487 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144383.sra
+
+2018-08-09T14:19:39 prefetch.2.8.2: 1) Downloading 'SRR5488460'...
+2018-08-09T14:19:39 prefetch.2.8.2:  Downloading via https...
+Rejected 23420893 READS because READLEN < 1
+Read 23420893 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144439.sra
+Written 23420893 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144439.sra
+
+2018-08-09T14:19:45 prefetch.2.8.2: 1) Downloading 'SRR2144406'...
+2018-08-09T14:19:45 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:19:48 prefetch.2.8.2: 1) 'SRR2144406' was downloaded successfully
+2018-08-09T14:19:48 prefetch.2.8.2: 'SRR2144406' has 0 unresolved dependencies
+Read 47505365 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767796.sra
+Written 47505365 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767796.sra
+
+2018-08-09T14:20:04 prefetch.2.8.2: 1) Downloading 'ERR986109'...
+2018-08-09T14:20:04 prefetch.2.8.2:  Downloading via https...
+Read 9154023 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986094.sra
+Written 9154023 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986094.sra
+
+2018-08-09T14:20:10 prefetch.2.8.2: 1) Downloading 'SRR2144435'...
+2018-08-09T14:20:10 prefetch.2.8.2:  Downloading via https...
+Rejected 22391620 READS because READLEN < 1
+Read 22391620 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144443.sra
+Written 22391620 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144443.sra
+
+2018-08-09T14:20:16 prefetch.2.8.2: 1) Downloading 'ERR986112'...
+2018-08-09T14:20:16 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:20:21 prefetch.2.8.2: 1) 'SRR2144435' was downloaded successfully
+2018-08-09T14:20:21 prefetch.2.8.2: 'SRR2144435' has 0 unresolved dependencies
+2018-08-09T14:20:37 prefetch.2.8.2: 1) 'ERR986109' was downloaded successfully
+Rejected 9474184 READS because READLEN < 1
+Read 9474184 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144409.sra
+Written 9474184 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144409.sra
+
+2018-08-09T14:20:40 prefetch.2.8.2: 1) Downloading 'SRR2144419'...
+2018-08-09T14:20:40 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:20:44 prefetch.2.8.2: 1) 'SRR2144419' was downloaded successfully
+2018-08-09T14:20:44 prefetch.2.8.2: 'SRR2144419' has 0 unresolved dependencies
+2018-08-09T14:20:55 prefetch.2.8.2: 1) 'ERR986112' was downloaded successfully
+Rejected 18573620 READS because READLEN < 1
+Read 18573620 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144393.sra
+Written 18573620 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144393.sra
+
+2018-08-09T14:20:55 prefetch.2.8.2: 1) Downloading 'SRR2144455'...
+2018-08-09T14:20:55 prefetch.2.8.2:  Downloading via https...
+Read 7396409 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986108.sra
+Written 7396409 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986108.sra
+
+2018-08-09T14:20:57 prefetch.2.8.2: 1) Downloading 'SRR2144424'...
+2018-08-09T14:20:57 prefetch.2.8.2:  Downloading via https...
+Read 16141630 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986084.sra
+Written 16141630 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986084.sra
+
+2018-08-09T14:21:02 prefetch.2.8.2: 1) Downloading 'SRR2144431'...
+2018-08-09T14:21:02 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:21:04 prefetch.2.8.2: 1) 'SRR2144424' was downloaded successfully
+2018-08-09T14:21:04 prefetch.2.8.2: 'SRR2144424' has 0 unresolved dependencies
+Rejected 6075558 READS because READLEN < 1
+Read 6075558 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144406.sra
+Written 6075558 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144406.sra
+
+2018-08-09T14:21:05 prefetch.2.8.2: 1) 'SRR2144455' was downloaded successfully
+2018-08-09T14:21:05 prefetch.2.8.2: 'SRR2144455' has 0 unresolved dependencies
+2018-08-09T14:21:05 prefetch.2.8.2: 1) 'SRR2144431' was downloaded successfully
+2018-08-09T14:21:06 prefetch.2.8.2: 'SRR2144431' has 0 unresolved dependencies
+2018-08-09T14:21:06 prefetch.2.8.2: 1) Downloading 'SRR5941975'...
+2018-08-09T14:21:06 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:21:13 prefetch.2.8.2: 1) 'SRR5488458' was downloaded successfully
+Read 53213965 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770383.sra
+Written 53213965 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770383.sra
+
+2018-08-09T14:21:21 prefetch.2.8.2: 1) Downloading 'SRR1770373'...
+2018-08-09T14:21:21 prefetch.2.8.2:  Downloading via https...
+Read 18279025 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986116.sra
+Written 18279025 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986116.sra
+
+2018-08-09T14:21:37 prefetch.2.8.2: 1) Downloading 'SRR1770368'...
+2018-08-09T14:21:37 prefetch.2.8.2:  Downloading via https...
+Read 7231349 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986085.sra
+Written 7231349 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986085.sra
+
+2018-08-09T14:21:48 prefetch.2.8.2: 1) Downloading 'SRR5488453'...
+2018-08-09T14:21:48 prefetch.2.8.2:  Downloading via https...
+Rejected 14332273 READS because READLEN < 1
+Read 14332273 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144471.sra
+Written 14332273 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144471.sra
+
+2018-08-09T14:22:00 prefetch.2.8.2: 1) Downloading 'ERR986107'...
+2018-08-09T14:22:00 prefetch.2.8.2:  Downloading via https...
+Read 35380126 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488466.sra
+Written 35380126 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488466.sra
+
+2018-08-09T14:22:10 prefetch.2.8.2: 1) Downloading 'SRR1770363'...
+2018-08-09T14:22:10 prefetch.2.8.2:  Downloading via https...
+Rejected 8548881 READS because READLEN < 1
+Read 8548881 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144419.sra
+Written 8548881 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144419.sra
+
+Rejected 7050554 READS because READLEN < 1
+Read 7050554 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144431.sra
+Written 7050554 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144431.sra
+2018-08-09T14:22:13 prefetch.2.8.2: 1) Downloading 'SRR2144395'...
+2018-08-09T14:22:13 prefetch.2.8.2:  Downloading via https...
+
+2018-08-09T14:22:13 prefetch.2.8.2: 1) Downloading 'SRR1770376'...
+2018-08-09T14:22:13 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:22:21 prefetch.2.8.2: 1) 'SRR5488457' was downloaded successfully
+2018-08-09T14:22:22 prefetch.2.8.2: 1) 'SRR5488456' was downloaded successfully
+2018-08-09T14:22:22 prefetch.2.8.2: 1) 'SRR2144395' was downloaded successfully
+2018-08-09T14:22:22 prefetch.2.8.2: 'SRR2144395' has 0 unresolved dependencies
+2018-08-09T14:22:23 prefetch.2.8.2: 1) 'ERR986107' was downloaded successfully
+2018-08-09T14:22:34 prefetch.2.8.2: 1) 'SRR1770373' was downloaded successfully
+2018-08-09T14:22:54 prefetch.2.8.2: 1) failed to download SRR5488453
+
+2018-08-09T14:22:55 prefetch.2.8.2: 1) Downloading 'SRR2144450'...
+2018-08-09T14:22:55 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:23:00 prefetch.2.8.2: 1) 'SRR1770368' was downloaded successfully
+2018-08-09T14:23:02 prefetch.2.8.2: 1) 'SRR2144450' was downloaded successfully
+2018-08-09T14:23:02 prefetch.2.8.2: 'SRR2144450' has 0 unresolved dependencies
+Read 12264225 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986110.sra
+Written 12264225 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986110.sra
+
+2018-08-09T14:23:04 prefetch.2.8.2: 1) Downloading 'SRR2144440'...
+2018-08-09T14:23:04 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:23:04 prefetch.2.8.2: 1) 'SRR1770376' was downloaded successfully
+2018-08-09T14:23:08 prefetch.2.8.2: 1) 'SRR2144440' was downloaded successfully
+2018-08-09T14:23:08 prefetch.2.8.2: 'SRR2144440' has 0 unresolved dependencies
+Rejected 24663996 READS because READLEN < 1
+Read 24663996 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144399.sra
+Written 24663996 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144399.sra
+
+2018-08-09T14:23:09 prefetch.2.8.2: 1) Downloading 'SRR5488452'...
+2018-08-09T14:23:09 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:23:10 prefetch.2.8.2: 1) 'SRR5941975' was downloaded successfully
+Rejected 18359709 READS because READLEN < 1
+Read 18359709 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144458.sra
+Written 18359709 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144458.sra
+
+2018-08-09T14:23:27 prefetch.2.8.2: 1) Downloading 'SRR2144414'...
+2018-08-09T14:23:27 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:23:33 prefetch.2.8.2: 1) 'SRR2144414' was downloaded successfully
+2018-08-09T14:23:33 prefetch.2.8.2: 'SRR2144414' has 0 unresolved dependencies
+2018-08-09T14:23:33 prefetch.2.8.2: 1) 'SRR1770363' was downloaded successfully
+Read 61403097 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770365.sra
+Written 61403097 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770365.sra
+
+2018-08-09T14:24:03 prefetch.2.8.2: 1) Downloading 'ERR986102'...
+2018-08-09T14:24:03 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:24:04 prefetch.2.8.2: 1) 'SRR5488460' was downloaded successfully
+Rejected 16881124 READS because READLEN < 1
+Read 16881124 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144424.sra
+Written 16881124 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144424.sra
+
+2018-08-09T14:24:08 prefetch.2.8.2: 1) Downloading 'ERR986090'...
+2018-08-09T14:24:08 prefetch.2.8.2:  Downloading via https...
+Read 12226156 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986109.sra
+Written 12226156 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986109.sra
+
+Read 38724461 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770379.sra
+Written 38724461 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770379.sra
+2018-08-09T14:24:19 prefetch.2.8.2: 1) Downloading 'ERR986089'...
+2018-08-09T14:24:19 prefetch.2.8.2:  Downloading via https...
+
+2018-08-09T14:24:20 prefetch.2.8.2: 1) Downloading 'SRR2144386'...
+2018-08-09T14:24:20 prefetch.2.8.2:  Downloading via https...
+Rejected 17604531 READS because READLEN < 1
+Read 17604531 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144455.sra
+Written 17604531 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144455.sra
+
+2018-08-09T14:24:23 prefetch.2.8.2: 1) Downloading 'SRR5488465'...
+2018-08-09T14:24:23 prefetch.2.8.2:  Downloading via https...
+Read 7382734 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986107.sra
+Written 7382734 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986107.sra
+
+2018-08-09T14:24:26 prefetch.2.8.2: 1) 'ERR986090' was downloaded successfully
+2018-08-09T14:24:27 prefetch.2.8.2: 1) 'ERR986102' was downloaded successfully
+2018-08-09T14:24:27 prefetch.2.8.2: 1) Downloading 'SRR2144415'...
+2018-08-09T14:24:27 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:24:28 prefetch.2.8.2: 1) 'SRR2144386' was downloaded successfully
+2018-08-09T14:24:28 prefetch.2.8.2: 'SRR2144386' has 0 unresolved dependencies
+2018-08-09T14:24:31 prefetch.2.8.2: 1) 'SRR2144415' was downloaded successfully
+2018-08-09T14:24:31 prefetch.2.8.2: 'SRR2144415' has 0 unresolved dependencies
+Rejected 9228913 READS because READLEN < 1
+Read 9228913 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144440.sra
+Written 9228913 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144440.sra
+
+2018-08-09T14:24:37 prefetch.2.8.2: 1) Downloading 'ERR986106'...
+2018-08-09T14:24:37 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:24:39 prefetch.2.8.2: 1) 'ERR986089' was downloaded successfully
+2018-08-09T14:24:56 prefetch.2.8.2: 1) 'ERR986106' was downloaded successfully
+Read 14902016 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986112.sra
+Written 14902016 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986112.sra
+
+2018-08-09T14:25:40 prefetch.2.8.2: 1) Downloading 'ERR986115'...
+2018-08-09T14:25:40 prefetch.2.8.2:  Downloading via https...
+Rejected 7173540 READS because READLEN < 1
+Read 7173540 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144415.sra
+Written 7173540 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144415.sra
+
+2018-08-09T14:25:43 prefetch.2.8.2: 1) Downloading 'SRR2144391'...
+2018-08-09T14:25:43 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:25:47 prefetch.2.8.2: 1) 'SRR2144391' was downloaded successfully
+2018-08-09T14:25:47 prefetch.2.8.2: 'SRR2144391' has 0 unresolved dependencies
+2018-08-09T14:25:47 prefetch.2.8.2: 1) 'SRR5488452' was downloaded successfully
+Rejected 27037771 READS because READLEN < 1
+Read 27037771 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144435.sra
+Written 27037771 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144435.sra
+
+2018-08-09T14:26:08 prefetch.2.8.2: 1) Downloading 'SRR2144396'...
+2018-08-09T14:26:08 prefetch.2.8.2:  Downloading via https...
+Rejected 14502930 READS because READLEN < 1
+Read 14502930 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144414.sra
+Written 14502930 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144414.sra
+
+2018-08-09T14:26:10 prefetch.2.8.2: 1) Downloading 'SRR2144468'...
+2018-08-09T14:26:10 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:26:12 prefetch.2.8.2: 1) 'SRR2144396' was downloaded successfully
+2018-08-09T14:26:12 prefetch.2.8.2: 'SRR2144396' has 0 unresolved dependencies
+Rejected 16486226 READS because READLEN < 1
+Read 16486226 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144450.sra
+Written 16486226 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144450.sra
+
+2018-08-09T14:26:31 prefetch.2.8.2: 1) Downloading 'SRR2144472'...
+2018-08-09T14:26:31 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:26:32 prefetch.2.8.2: 1) 'SRR2144468' was downloaded successfully
+2018-08-09T14:26:32 prefetch.2.8.2: 'SRR2144468' has 0 unresolved dependencies
+2018-08-09T14:26:36 prefetch.2.8.2: 1) 'ERR986115' was downloaded successfully
+2018-08-09T14:26:38 prefetch.2.8.2: 1) 'SRR2144472' was downloaded successfully
+2018-08-09T14:26:38 prefetch.2.8.2: 'SRR2144472' has 0 unresolved dependencies
+Rejected 19959120 READS because READLEN < 1
+Read 19959120 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144395.sra
+Written 19959120 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144395.sra
+
+2018-08-09T14:26:48 prefetch.2.8.2: 1) Downloading 'SRR2144388'...
+2018-08-09T14:26:48 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:26:54 prefetch.2.8.2: 1) 'SRR2144388' was downloaded successfully
+2018-08-09T14:26:54 prefetch.2.8.2: 'SRR2144388' has 0 unresolved dependencies
+Read 53699721 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767794.sra
+Written 53699721 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767794.sra
+
+2018-08-09T14:27:01 prefetch.2.8.2: 1) Downloading 'SRR5941976'...
+2018-08-09T14:27:01 prefetch.2.8.2:  Downloading via https...
+Read 8847738 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986090.sra
+Written 8847738 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986090.sra
+
+2018-08-09T14:27:13 prefetch.2.8.2: 1) Downloading 'ERR986105'...
+2018-08-09T14:27:13 prefetch.2.8.2:  Downloading via https...
+Read 7549927 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986106.sra
+Written 7549927 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986106.sra
+
+2018-08-09T14:27:14 prefetch.2.8.2: 1) Downloading 'SRR2144389'...
+2018-08-09T14:27:14 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:27:18 prefetch.2.8.2: 1) 'SRR2144389' was downloaded successfully
+2018-08-09T14:27:18 prefetch.2.8.2: 'SRR2144389' has 0 unresolved dependencies
+Read 8856951 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986089.sra
+Written 8856951 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986089.sra
+
+2018-08-09T14:27:23 prefetch.2.8.2: 1) Downloading 'SRR1770386'...
+2018-08-09T14:27:23 prefetch.2.8.2:  Downloading via https...
+Rejected 10042259 READS because READLEN < 1
+Read 10042259 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144391.sra
+Written 10042259 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144391.sra
+
+2018-08-09T14:27:26 prefetch.2.8.2: 1) Downloading 'SRR1767773'...
+2018-08-09T14:27:26 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:27:41 prefetch.2.8.2: 1) 'ERR986105' was downloaded successfully
+Rejected 9261314 READS because READLEN < 1
+Read 9261314 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144396.sra
+Written 9261314 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144396.sra
+
+2018-08-09T14:27:43 prefetch.2.8.2: 1) Downloading 'ERR986098'...
+2018-08-09T14:27:43 prefetch.2.8.2:  Downloading via https...
+Read 11109425 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986102.sra
+Written 11109425 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986102.sra
+
+2018-08-09T14:27:59 prefetch.2.8.2: 1) Downloading 'SRR1770372'...
+2018-08-09T14:27:59 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:28:25 prefetch.2.8.2: 1) 'SRR1767773' was downloaded successfully
+Rejected 12488937 READS because READLEN < 1
+Read 12488937 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144468.sra
+Written 12488937 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144468.sra
+
+Rejected 8119109 READS because READLEN < 1
+Read 8119109 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144389.sra
+Written 8119109 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144389.sra
+
+2018-08-09T14:28:30 prefetch.2.8.2: 1) Downloading 'SRR2144448'...
+2018-08-09T14:28:30 prefetch.2.8.2:  Downloading via https...
+Rejected 12712595 READS because READLEN < 1
+Read 12712595 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144472.sra
+Written 12712595 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144472.sra
+2018-08-09T14:28:40 prefetch.2.8.2: 1) Downloading 'SRR5488459'...
+2018-08-09T14:28:40 prefetch.2.8.2:  Downloading via https...
+2018-08-09T14:28:46 prefetch.2.8.2: 1) 'SRR1770386' was downloaded successfully
+2018-08-09T14:28:46 prefetch.2.8.2: 1) 'SRR2144448' was downloaded successfully
+2018-08-09T14:28:46 prefetch.2.8.2: 'SRR2144448' has 0 unresolved dependencies
+2018-08-09T14:28:48 prefetch.2.8.2: 1) 'SRR5941976' was downloaded successfully
+2018-08-09T14:28:49 prefetch.2.8.2: 1) 'SRR1770372' was downloaded successfully
+Read 62472009 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770385.sra
+Written 62472009 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770385.sra
+Read 49915834 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770377.sra
+Written 49915834 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770377.sra
+Rejected 20504937 READS because READLEN < 1
+Read 20504937 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144386.sra
+Written 20504937 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144386.sra
+Rejected 13825269 READS because READLEN < 1
+Read 13825269 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144388.sra
+Written 13825269 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144388.sra
+2018-08-09T14:29:08 prefetch.2.8.2: 1) 'SRR5488465' was downloaded successfully
+2018-08-09T14:29:32 prefetch.2.8.2: 1) 'ERR986098' was downloaded successfully
+Read 7563789 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986105.sra
+Written 7563789 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986105.sra
+Read 35755113 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770376.sra
+Written 35755113 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770376.sra
+2018-08-09T14:29:48 prefetch.2.8.2: 1) failed to download SRR5488459
+Read 23420116 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941975.sra
+Written 23420116 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941975.sra
+Rejected 8990672 READS because READLEN < 1
+Read 8990672 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144448.sra
+Written 8990672 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144448.sra
+Read 42876041 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770373.sra
+Written 42876041 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770373.sra
+Read 35968534 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488462.sra
+Written 35968534 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488462.sra
+Read 38426115 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488463.sra
+Written 38426115 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488463.sra
+Read 37783247 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488455.sra
+Written 37783247 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488455.sra
+Read 18230293 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986115.sra
+Written 18230293 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986115.sra
+Read 29884774 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488457.sra
+Written 29884774 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488457.sra
+Read 52536520 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770368.sra
+Written 52536520 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770368.sra
+Read 26784079 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770372.sra
+Written 26784079 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770372.sra
+Rejected 79298523 READS because READLEN < 1
+Read 79298523 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144445.sra
+Written 79298523 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144445.sra
+Read 57750401 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770363.sra
+Written 57750401 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770363.sra
+Read 49326698 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488461.sra
+Written 49326698 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488461.sra
+Read 18955205 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986098.sra
+Written 18955205 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986098.sra
+Read 29881266 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488452.sra
+Written 29881266 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488452.sra
+Read 24500258 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941976.sra
+Written 24500258 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941976.sra
+Read 40786397 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488456.sra
+Written 40786397 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488456.sra
+Read 43866455 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488458.sra
+Written 43866455 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488458.sra
+Read 43935848 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767773.sra
+Written 43935848 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767773.sra
+Read 53354046 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488450.sra
+Written 53354046 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488450.sra
+Read 57200471 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770386.sra
+Written 57200471 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770386.sra
+Read 46516458 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488460.sra
+Written 46516458 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488460.sra
+Read 35918854 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488465.sra
+Written 35918854 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488465.sra
+SRR5488464 was not downloaded. Please try manually.
+SRR5488451 was not downloaded. Please try manually.
+SRR5488449 was not downloaded. Please try manually.
+SRR5488454 was not downloaded. Please try manually.
+SRR5488453 was not downloaded. Please try manually.
+SRR5488459 was not downloaded. Please try manually.

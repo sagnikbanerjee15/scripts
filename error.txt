@@ -1,0 +1,482 @@
+nohup: ignoring input
+mkdir: cannot create directory ‘/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq/’: File exists
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144382.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144382.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144429.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144429.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144462.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144462.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144394.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144394.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144449.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144449.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144405.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144405.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144469.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144469.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144461.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144461.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144473.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144473.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144446.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144446.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144436.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144436.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144423.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144423.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144412.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144412.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144470.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144470.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144410.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144410.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144398.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144398.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144441.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144441.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144442.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144442.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144475.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144475.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144385.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144385.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986104.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986104.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986093.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986093.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986101.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986101.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986113.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986113.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986100.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986100.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986083.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986083.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144466.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144466.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767795.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767795.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941978.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941978.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770381.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770381.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767791.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767791.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144437.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144437.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770370.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770370.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144453.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144453.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986114.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986114.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986087.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986087.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986118.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986118.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770369.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770369.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986096.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986096.sra
+2018-08-09T14:00:24 prefetch.2.8.2 int: incomplete while <INVALID-CONTEXT> within network system module - 8?!: Cannot KStreamRead
+mv: cannot stat ‘/home/sagnik/ncbi/public/sra//SRR5488464.sra’: No such file or directory
+2018-08-09T14:00:25 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488464.sra' cannot be opened as database or table
+2018-08-09T14:00:25 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488464.sra' cannot be opened as database or table
+rm: cannot remove ‘/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488464.sra’: No such file or directory
+2018-08-09T14:00:45 prefetch.2.8.2 int: incomplete while <INVALID-CONTEXT> within network system module - 8
+mv: cannot stat ‘/home/sagnik/ncbi/public/sra//SRR5488451.sra’: No such file or directory
+2018-08-09T14:00:47 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488451.sra' cannot be opened as database or table
+2018-08-09T14:00:47 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488451.sra' cannot be opened as database or table
+rm: cannot remove ‘/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488451.sra’: No such file or directory
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144397.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144397.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941977.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941977.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986117.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986117.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144459.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144459.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144422.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144422.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144434.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144434.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144432.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144432.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144407.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144407.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144433.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144433.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144467.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144467.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770371.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770371.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770382.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770382.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770384.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770384.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770387.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770387.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986103.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986103.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144451.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144451.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986097.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986097.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144464.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144464.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144401.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144401.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144454.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144454.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144411.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144411.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986095.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986095.sra
+2018-08-09T14:05:46 prefetch.2.8.2 int: incomplete while <INVALID-CONTEXT> within network system module - 8�: Cannot KStreamR
+mv: cannot stat ‘/home/sagnik/ncbi/public/sra//SRR5488449.sra’: No such file or directory
+2018-08-09T14:05:46 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488449.sra' cannot be opened as database or table
+2018-08-09T14:05:47 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488449.sra' cannot be opened as database or table
+rm: cannot remove ‘/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488449.sra’: No such file or directory
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144418.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144418.sra
+2018-08-09T14:06:29 prefetch.2.8.2 int: incomplete while <INVALID-CONTEXT> within network system module - 8/d: Cannot KStreamRead
+mv: cannot stat ‘/home/sagnik/ncbi/public/sra//SRR5488454.sra’: No such file or directory
+2018-08-09T14:06:31 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488454.sra' cannot be opened as database or table
+2018-08-09T14:06:31 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488454.sra' cannot be opened as database or table
+rm: cannot remove ‘/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488454.sra’: No such file or directory
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144387.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144387.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767792.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767792.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767790.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767790.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770375.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770375.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770366.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770366.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770378.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770378.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767793.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767793.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144426.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144426.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144460.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144460.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770367.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770367.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144390.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144390.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144403.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144403.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144420.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144420.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986088.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986088.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144384.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144384.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144444.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144444.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770380.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770380.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488466.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488466.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144404.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144404.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144427.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144427.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144474.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144474.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144430.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144430.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144463.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144463.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986111.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986111.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144402.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770374.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144402.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770374.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144465.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144465.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770383.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770383.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767796.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767796.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144425.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144425.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770365.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770365.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144457.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144457.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986092.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986092.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144417.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144417.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144416.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144416.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144447.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144447.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144438.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144438.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986086.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986086.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144456.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144456.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144439.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144439.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144400.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144400.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144443.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144443.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986099.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986099.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986116.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986116.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986091.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986091.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986084.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986084.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144413.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144413.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144421.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144421.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144452.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144452.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144393.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144393.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767794.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767794.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144428.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144428.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770385.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770385.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144399.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144399.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770379.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770379.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488463.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488463.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986094.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986094.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144392.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144392.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144408.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144408.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488461.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488461.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488462.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488462.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488455.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488455.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488450.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488450.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144383.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144383.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986108.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986108.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144409.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144409.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986110.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986110.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144471.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144471.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144458.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144458.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986085.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986085.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144445.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144445.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770377.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770377.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144406.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144406.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144435.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144435.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144419.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144419.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986109.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986109.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986112.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986112.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144424.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144424.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144431.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144431.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144455.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144455.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488458.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488458.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144395.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144395.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986107.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986107.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488457.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488457.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488456.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488456.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770373.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770373.sra
+2018-08-09T14:22:54 prefetch.2.8.2 int: incomplete while <INVALID-CONTEXT> within network system module - 8
+mv: cannot stat ‘/home/sagnik/ncbi/public/sra//SRR5488453.sra’: No such file or directory
+2018-08-09T14:22:54 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488453.sra' cannot be opened as database or table
+2018-08-09T14:22:54 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488453.sra' cannot be opened as database or table
+rm: cannot remove ‘/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488453.sra’: No such file or directory
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144450.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144450.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144440.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144440.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770376.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770376.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770368.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770368.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941975.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941975.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144414.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144414.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770363.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770363.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488460.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488460.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144386.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144386.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144415.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144415.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986090.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986090.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986102.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986102.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986089.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986089.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986106.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986106.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144391.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144391.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488452.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488452.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144396.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144396.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144468.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144468.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144472.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144472.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986115.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986115.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144388.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144388.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144389.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144389.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986105.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986105.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767773.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1767773.sra
+Rejected 1 READS because READLEN < 1
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144448.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR2144448.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770372.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770372.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941976.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5941976.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770386.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR1770386.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488465.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488465.sra
+Read 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986098.sra
+Written 1 spots for /work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//ERR986098.sra
+2018-08-09T14:29:48 prefetch.2.8.2 int: incomplete while <INVALID-CONTEXT> within network system module - 8?�: Cannot KStreamRea
+mv: cannot stat ‘/home/sagnik/ncbi/public/sra//SRR5488459.sra’: No such file or directory
+2018-08-09T14:29:49 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488459.sra' cannot be opened as database or table
+2018-08-09T14:29:49 fastq-dump.2.8.2 err: item not found while constructing within virtual database module - the path '/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488459.sra' cannot be opened as database or table
+rm: cannot remove ‘/work/LAS/rpwise-lab/sagnik/CPT_2018/maize_gene_annotations/data/raw_fastq//SRR5488459.sra’: No such file or directory
