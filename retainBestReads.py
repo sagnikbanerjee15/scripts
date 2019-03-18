@@ -8,10 +8,10 @@ import numpy as np
 def parseCommandLineArguments():
     """
     """
-    parser = argparse.ArgumentParser(prog="convert_fastq_to_fasta.py",description="Convert fastq to fasta file")
+    parser = argparse.ArgumentParser(prog="retainBestReads.py",description="Convert fastq to fasta file")
     parser.add_argument("--input","-i",help="Enter the full path of the fastq file",required=True)
     parser.add_argument("--prefix","-p",help="Enter the prefix of the output file",required=True)
-    parser.add_argument("--unique","-u",nargs='*',default=False)
+    parser.add_argument("--unique","-u",nargs='*',default=0)
     return parser.parse_args()
 
 def readFastqFile(filename):
@@ -119,11 +119,12 @@ def main():
     options=parseCommandLineArguments()
     #data=readFastqFile(options.input)
     data=[]
-    if options.unique==False:
+    """if options.unique==1:
         convertFastqToFasta(data, options.prefix)
     else:
-        #findUniqueReads(data,options.prefix)
-        retainBest(options.input,options.prefix)
+        #findUniqueReads(data,options.prefix)"""
+        
+    retainBest(options.input,options.prefix)
     
 
 if __name__ == "__main__":
