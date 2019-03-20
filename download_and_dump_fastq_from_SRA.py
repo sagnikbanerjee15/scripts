@@ -25,39 +25,38 @@ def readSRAfilesToBeDownloaded(filename):
     """
     return list(set([name.strip() for name in open(filename,"r").read().split("\n")]))
 
-def downloadSRAFile(sra,default_path_to_download,output_directory):
-    os.system("prefetch "+sra)
+def downloadSRAFile(allinput):
+    sra,default_path_to_download,output_directory=allinput
+    if os.path.exists(output_directory+"/"+sra+".sra")==True:return
+    os.system("prefetch --max-size 1000000000 "+sra)
     os.system("mv "+default_path_to_download+"/"+sra+".sra "+output_directory+"/")
-    cmd="fastq-dump -X 1 -Z  --split-spot "+output_directory+"/"+sra+".sra|wc -l > "+output_directory+"/"+sra+".temp"
+    """cmd="fastq-dump -X 1 -Z  --split-spot "+output_directory+"/"+sra+".sra|wc -l > "+output_directory+"/"+sra+".temp"
     os.system(cmd)
     if int(open(output_directory+"/"+sra+".temp").read())==4:
         pair="single"
     else:
         pair="paired"
-    cmd="fastq-dump --defline-seq '@$sn[_$rn]/$ri' --outdir "+output_directory+" --split-files "+output_directory+"/"+sra+".sra"
+    cmd="fastq-dump --defline-seq '@$sn[_$rn]_$ri' --outdir "+output_directory+" --split-files "+output_directory+"/"+sra+".sra"
     os.system(cmd)
     if pair=="single":
         os.system("mv "+output_directory+"/"+sra+"_1.fastq "+output_directory+"/"+sra+".fastq ")
-    os.system("rm "+output_directory+"/"+sra+".sra "+output_directory+"/"+sra+".temp")
+    os.system("rm "+output_directory+"/"+sra+".sra "+output_directory+"/"+sra+".temp")"""
     
 def downloadSRAFilesAndConvertToFastq(SRAs,default_path_to_download,n,output_directory):
     """
     Downloads the sra files and converts to fastq
     """
-    cmd="mkdir "+output_directory
+    cmd="mkdir -p "+output_directory
     os.system(cmd)
-    jobs=[]
-    for sra in SRAs:
+    pool = multiprocessing.Pool(processes=int(n))
+    allinputs=[]
+    for sra in SRAs[::-1]:
         if os.path.exists(output_directory+"/"+sra+".fastq")==True or (os.path.exists(output_directory+"/"+sra+"_1.fastq")==True and os.path.exists(output_directory+"/"+sra+"_2.fastq")==True):
             if os.path.exists(output_directory+"/"+sra+"_1.fastq")==True and os.path.exists(output_directory+"/"+sra+"_2.fastq")==False:
                 os.system("mv "+output_directory+"/"+sra+"_1.fastq "+output_directory+"/"+sra+".fastq")
             continue
-        p = multiprocessing.Process(target=downloadSRAFile, args=(sra,default_path_to_download,output_directory))
-        jobs.append(p)
-    for p in jobs:
-        while [p.is_alive() for p in jobs].count(True) > n: continue
-        p.start()
-    for p in jobs:p.join()
+        allinputs.append([sra,default_path_to_download,output_directory])
+    pool.map(downloadSRAFile,allinputs)
     
 def verifyOutput(output_directory,SRAs):
     """
@@ -69,16 +68,20 @@ def verifyOutput(output_directory,SRAs):
         elif os.path.exists(output_directory+"/"+sra+"_1.fastq")==True and os.path.exists(output_directory+"/"+sra+"_2.fastq")==True:
             continue
         print(sra,"was not downloaded. Please try manually.")
-        
-    
+           
 def main():
     commandLineArg=sys.argv
     if len(commandLineArg)==1:
         print("Please use the --help option to get usage information")
     options=parseCommandLineArguments()
     SRAs=readSRAfilesToBeDownloaded(options.sra)
-    #home = str(Path.home())
-    default_path_to_download="/home/sagnik/ncbi/public/sra/"
+    new_SRAs=[s for s in SRAs if s!=""]
+    SRAs=new_SRAs
+    #print(SRAs)
+    home = str(Path.home())
+    #home="/home/sagnik.banerjee"
+    #home="/N/dc2/scratch/prbhan"
+    default_path_to_download=home+"/ncbi/public/sra/"
     downloadSRAFilesAndConvertToFastq(SRAs,default_path_to_download,int(options.cpu),options.output)
     verifyOutput(options.output,SRAs)
 
