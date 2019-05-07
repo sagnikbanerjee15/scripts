@@ -28,3 +28,12 @@ python /work/LAS/rpwise-lab/sagnik/scripts/generate_gene_annotations_file.py \
 --cds_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.cds.all.fa \
 --proteome /work/LAS/rpwise-lab/sagnik/data/barley/proteome/Hordeum_vulgare.IBSC_v2.pep.all.fa \
 --ncdna_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.ncrna.fa
+
+# Blumeria 
+python /work/LAS/rpwise-lab/sagnik/scripts/generate_gene_annotations_file.py \
+--output_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/gene_annotations_split.csv \
+--gffread_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/transcripts_gffread.EF2.fa \
+--cdna_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/Blumeria_graminis.EF2.cdna.all.fa \
+--cds_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/Blumeria_graminis.EF2.cds.all.fa \
+--proteome /work/LAS/rpwise-lab/sagnik/data/blumeria/proteome/Blumeria_graminis.EF2.pep.all.fa \
+--ncdna_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/Blumeria_graminis.EF2.ncrna.fa
