@@ -30,7 +30,7 @@ def downloadSRAFile(allinput):
     if os.path.exists(output_directory+"/"+sra+".sra")==True:return
     os.system("prefetch --max-size 1000000000 "+sra)
     os.system("mv "+default_path_to_download+"/"+sra+".sra "+output_directory+"/")
-    """cmd="fastq-dump -X 1 -Z  --split-spot "+output_directory+"/"+sra+".sra|wc -l > "+output_directory+"/"+sra+".temp"
+    cmd="fastq-dump -X 1 -Z  --split-spot "+output_directory+"/"+sra+".sra|wc -l > "+output_directory+"/"+sra+".temp"
     os.system(cmd)
     if int(open(output_directory+"/"+sra+".temp").read())==4:
         pair="single"
@@ -40,7 +40,7 @@ def downloadSRAFile(allinput):
     os.system(cmd)
     if pair=="single":
         os.system("mv "+output_directory+"/"+sra+"_1.fastq "+output_directory+"/"+sra+".fastq ")
-    os.system("rm "+output_directory+"/"+sra+".sra "+output_directory+"/"+sra+".temp")"""
+    os.system("rm "+output_directory+"/"+sra+".sra "+output_directory+"/"+sra+".temp")
     
 def downloadSRAFilesAndConvertToFastq(SRAs,default_path_to_download,n,output_directory):
     """
