@@ -98,19 +98,14 @@ def retainBest(inputfilename,prefix):
         if len(sequences_with_quality)%10000==0:
             print(len(sequences_with_quality),seq_processed,len(sequences_with_quality)/seq_processed)
             sys.stdout.flush()
-        """if len(sequences_with_quality)==10000000:
-            break"""
-    try:
-        #fhw=open(prefix+"_best.fastq","w")
-        with open(prefix+"_best.fastq","w") as fhw:
-            for num,seq in enumerate(list(sequences_with_quality.keys())):
-                fhw.write("@"+sequences_with_quality[seq]["id"]+"\n"+seq+"\n+\n"+sequences_with_quality[seq]["quality"]+"\n")
-                #del sequences_with_quality[seq]
-                if num%1000==0:
-                    fhw.flush()
-                    #gc.collect()
-    finally:
-        fhw.close()
+        if len(sequences_with_quality)>=10000000:
+            break
+    fhw=open(prefix+"_best.fastq","w")
+    for num,seq in enumerate(list(sequences_with_quality.keys())):
+        fhw.write("@"+sequences_with_quality[seq]["id"]+"\n"+seq+"\n+\n"+sequences_with_quality[seq]["quality"]+"\n")
+    fhw.close()
+    del sequences_with_quality
+    gc.collect()
         
 def main():
     commandLineArg=sys.argv
