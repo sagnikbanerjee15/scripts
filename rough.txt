@@ -1,0 +1,39 @@
+#Arath
+python /work/LAS/rpwise-lab/sagnik/scripts/generate_gene_annotations_file.py \
+--output_filename /work/LAS/rpwise-lab/sagnik/data/arath/transcriptome/gene_annotations.csv \
+--gffread_filename /work/LAS/rpwise-lab/sagnik/data/arath/transcriptome/transcripts_gffread.fa \
+--cdna_filename /work/LAS/rpwise-lab/sagnik/data/arath/transcriptome/Arabidopsis_thaliana.TAIR10.cdna.all.fa \
+--cds_filename /work/LAS/rpwise-lab/sagnik/data/arath/transcriptome/Arabidopsis_thaliana.TAIR10.cds.all.fa \
+--proteome /work/LAS/rpwise-lab/sagnik/data/arath/proteome/Arabidopsis_thaliana.TAIR10.pep.all.fa \
+--ncdna_filename /work/LAS/rpwise-lab/sagnik/data/arath/transcriptome/Arabidopsis_thaliana.TAIR10.ncrna.fa
+
+
+
+
+#Barley
+python /work/LAS/rpwise-lab/sagnik/scripts/generate_gene_annotations_file.py \
+--output_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/gene_annotations.csv \
+--gffread_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/transcripts_gffread.fa \
+--cdna_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.cdna.all.fa \
+--cds_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.cds.all.fa \
+--proteome /work/LAS/rpwise-lab/sagnik/data/barley/proteome/Hordeum_vulgare.IBSC_v2.pep.all.fa \
+--ncdna_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.ncrna.fa
+
+# Barley split
+
+python /work/LAS/rpwise-lab/sagnik/scripts/generate_gene_annotations_file.py \
+--output_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/gene_annotations_split.csv \
+--gffread_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/split.fa \
+--cdna_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.cdna.all.fa \
+--cds_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.cds.all.fa \
+--proteome /work/LAS/rpwise-lab/sagnik/data/barley/proteome/Hordeum_vulgare.IBSC_v2.pep.all.fa \
+--ncdna_filename /work/LAS/rpwise-lab/sagnik/data/barley/transcriptome/Hordeum_vulgare.IBSC_v2.ncrna.fa
+
+# Blumeria 
+python /work/LAS/rpwise-lab/sagnik/scripts/generate_gene_annotations_file.py \
+--output_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/gene_annotations_split.csv \
+--gffread_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/transcripts_gffread.EF2.fa \
+--cdna_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/Blumeria_graminis.EF2.cdna.all.fa \
+--cds_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/Blumeria_graminis.EF2.cds.all.fa \
+--proteome /work/LAS/rpwise-lab/sagnik/data/blumeria/proteome/Blumeria_graminis.EF2.pep.all.fa \
+--ncdna_filename /work/LAS/rpwise-lab/sagnik/data/blumeria/transcriptome/Blumeria_graminis.EF2.ncrna.fa
