@@ -36,8 +36,8 @@ def main():
             reference_length+=len(line.strip())
     fhr.close()
     
-    genomeSAindexNbases = min(14, math.log2(reference_length)/2 - 1)
-    genomeChrBinNbits = min(18,math.log2(reference_length/num_chromosomes))
+    genomeSAindexNbases = int(min(14, math.log2(reference_length)/2 - 1))
+    genomeChrBinNbits = int(min(18,math.log2(reference_length/num_chromosomes)))
     
     open(options.genome_sa_index_and_bases_output_filename,"w").write(str(genomeSAindexNbases))
     open(options.genome_chr_bin_n_bits_output_filename,"w").write(str(genomeChrBinNbits))
